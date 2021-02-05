@@ -1,4 +1,4 @@
-﻿# Mixed-Messages-Knock-Knock-Joke-Generator
+# Knock-Knock-Joke-Generator
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
